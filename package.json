@@ -1,0 +1,19 @@
+{
+  "name": "magicstyle",
+  "version": "1.0.0",
+  "description": "> This is my first npm package, so, feel free to give suggestions, tips or critics about the code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogojorgebasso/image-style.git"
+  },
+  "author": "Diogo Basso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogojorgebasso/image-style/issues"
+  },
+  "homepage": "https://github.com/diogojorgebasso/image-style#readme"
+}
