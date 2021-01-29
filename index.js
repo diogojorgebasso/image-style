@@ -1,5 +1,5 @@
-function magicStyle(params) {
-  let images = document.querySelectorAll(".magicStyle");
+function magicstyle(params) {
+  let images = document.querySelectorAll(".magicstyle");
   if (params.shadow_type === "hard") {
     options.shadow_type = "0px";
   }
@@ -14,4 +14,4 @@ function magicStyle(params) {
   });
 }
 
-module.exports.magicStyle = magicStyle;
+module.exports.magicstyle = magicstyle;
